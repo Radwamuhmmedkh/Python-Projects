@@ -6,6 +6,6 @@ A fun command-line game of Rock-Paper-Scissors! Challenge the computer to a matc
 \n
 #### ✨ Features:\n
 \n
-🖐️ Choose between Rock, Paper, or Scissors.\n
+🖐️ Choose between Rock, Paper, or Scissors.
 🤖 The computer makes a choice from the remaining choices\n
 🏆 Play as many rounds as you like, with a score tracker!\n
