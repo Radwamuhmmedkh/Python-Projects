@@ -1,8 +1,8 @@
 # 🌟 Python Projects Repository
 Welcome to my collection of Python projects! 🐍 This repository is a hub of diverse Python scripts, tools, and applications, each showcasing different aspects of Python's versatility.
 ## 📜 Projects Included
-🎮 1. Rock-Paper-Scissors
-A fun command-line game of Rock-Paper-Scissors! Challenge the computer to a match and see if you can win.
+### 🎮 1. Rock-Paper-Scissors\n
+A fun command-line game of Rock-Paper-Scissors! Challenge the computer to a match and see if you can win.\n
 
 ✨ Features:
 
